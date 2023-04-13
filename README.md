@@ -23,13 +23,13 @@ This page should be used for learning and demonstration purposes.
 See below screenshots for navigation instructions.
 
     
-    ![An image](/readmeAssets/StepsToAccess.png)
+    ![step 1](https://github.com/guymorganb/Horiseon-Digital-Marketing/blob/main/Horiseon-Digital-Marketing/Develop/assets/images/readmeAssets/StepsToAccess.png?raw=true)
     
     
-    ![An image](/readmeAssets/Step2Access.png)
+    ![step 2](https://github.com/guymorganb/Horiseon-Digital-Marketing/blob/main/Horiseon-Digital-Marketing/Develop/assets/images/readmeAssets/Step2Access.png?raw=true)
     
     
-    ![An image](/readmeAssets/Step3Access.png)
+    ![step 3](https://github.com/guymorganb/Horiseon-Digital-Marketing/blob/main/Horiseon-Digital-Marketing/Develop/assets/images/readmeAssets/Step3Access.png?raw=true)
     
 
 
