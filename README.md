@@ -23,13 +23,13 @@ This page should be used for learning and demonstration purposes.
 See below screenshots for navigation instructions.
 
     
-    ![Steps to access](./Horiseon-Digital-Marketing/Develop/assets/images/StepsToAccess.png)
+    ![Access](../Horiseon-Digital-Marketing/Horiseon-Digital-Marketing/Develop/assets/images/StepsToAccess.png)
     
     
-    ![Step 2, to Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step2Access.png)
+    ![Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step2Access.png)
     
     
-    ![Step 3, to Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step3Access.png)
+    ![Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step3Access.png)
     
 
 
