@@ -22,15 +22,15 @@ This webpage can be navigated to and acessed with a browser. It does not require
 This page should be used for learning and demonstration purposes.
 See below screenshots for navigation instructions.
 
-    ```md
+    
     ![Steps to access](./Horiseon-Digital-Marketing/Develop/assets/images/StepsToAccess.png)
-    ```
-        ```md
+    
+    
     ![Step 2, to Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step2Access.png)
-    ```
-           ```md
+    
+    
     ![Step 3, to Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step3Access.png)
-    ```
+    
 
 
 
