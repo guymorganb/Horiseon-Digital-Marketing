@@ -22,8 +22,8 @@ This webpage can be navigated to and acessed with a browser. It does not require
 This page should be used for learning and demonstration purposes.
 See below screenshots for navigation instructions.
 
-    
-    ![step 1](https://github.com/guymorganb/Horiseon-Digital-Marketing/blob/main/Horiseon-Digital-Marketing/Develop/assets/images/readmeAssets/StepsToAccess.png?raw=true)
+
+<a href="https://github.com/guymorganb/Horiseon-Digital-Marketing/blob/main/Horiseon-Digital-Marketing/Develop/assets/images/readmeAssets/StepsToAccess.png?raw=true" width="300" height="200"></a>
     
     
     ![step 2](https://github.com/guymorganb/Horiseon-Digital-Marketing/blob/main/Horiseon-Digital-Marketing/Develop/assets/images/readmeAssets/Step2Access.png?raw=true)
