@@ -20,6 +20,19 @@ This webpage can be navigated to and acessed with a browser. It does not require
 ## Usage
 
 This page should be used for learning and demonstration purposes.
+See below screenshots for navigation instructions.
+
+    ```md
+    ![Steps to access](./Horiseon-Digital-Marketing/Develop/assets/images/StepsToAccess.png)
+    ```
+        ```md
+    ![Step 2, to Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step2Access.png)
+    ```
+           ```md
+    ![Step 3, to Access](./Horiseon-Digital-Marketing/Develop/assets/images/Step3Access.png)
+    ```
+
+
 
 ## Credits
 
@@ -29,7 +42,7 @@ EDx Bootcamp through the University of Denver provided the guidance and material
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Guy MorganB]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -54,15 +67,14 @@ SOFTWARE.
 ![badmath](https://img.shields.io/github/license/guymorganb/Horiseon-Digital-Marketing)
 
 
-
 ## Features
 
 This project does not have notable features outside of its usefulness as a learning opportunity.
 
 ## How to Contribute
 
-Im still learning how to be a valusble contributer as an aspiring computer professional.
+[Contributor Covenant](https://www.contributor-covenant.org/)
 
 ## Tests
 
-Unsure of how to answer this.
+Not tests avaliable at this time.
