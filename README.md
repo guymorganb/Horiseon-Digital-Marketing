@@ -23,13 +23,13 @@ This page should be used for learning and demonstration purposes.
 See below screenshots for navigation instructions.
 
     
-    ![Access](./readmeAssets/StepsToAccess.png)
+    ![An image](/readmeAssets/StepsToAccess.png)
     
     
-    ![Access](./readmeAssets/Step2Access.png)
+    ![An image](/readmeAssets/Step2Access.png)
     
     
-    ![Access](./readmeAssets/Step3Access.png)
+    ![An image](/readmeAssets/Step3Access.png)
     
 
 
