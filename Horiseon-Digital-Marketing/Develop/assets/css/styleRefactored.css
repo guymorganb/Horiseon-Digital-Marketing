@@ -14,7 +14,7 @@ body {
 header {
     padding: 1em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
-    font-size: larger;
+    font-size: x-large;
     background-color: #2a607c;
     color: #ffffff;
     width: 100vw;
@@ -32,13 +32,13 @@ section{
     height: 100vh;
 }
 nav{
-    display: flex; 
-    flex-flow: row wrap;
+    display: inline-flex; 
+    flex-flow: row;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-left: calc(100vw - 470.90px);
+    padding-left: calc(100vw - 730.90px);
 }
 nav a {
-    font-size: xx-small;
+    font-size: medium;
     padding: .5em;
 }
 a:link {
